@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppWithUIWork</string>
+    <string name="startbutton">start thread</string>
+    <string name="stopbutton">stop thread</string>
+    <string name="count">thread count</string>
+    <string name="txt_finalcount">final count</string>
+    <string name="txtholder">txt holder</string>
+</resources>
